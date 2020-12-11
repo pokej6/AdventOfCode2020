@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AOC2020.src.Day10</StartupObject>
+    <StartupObject>AOC2020.src.Day11</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="src\Day1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\Day11.cs" />
     <Compile Include="src\Day10.cs" />
     <Compile Include="src\Day2.cs" />
     <Compile Include="src\Day5.cs" />
@@ -63,6 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="resources\Day1.txt" />
+    <Content Include="resources\Day11Sample.txt" />
+    <Content Include="resources\Day11.txt" />
     <Content Include="resources\Day10Sample2.txt" />
     <Content Include="resources\Day10Sample.txt" />
     <Content Include="resources\Day10.txt" />
